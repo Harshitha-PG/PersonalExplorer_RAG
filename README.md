@@ -3,6 +3,8 @@
 Privacy-First Local AI Memory Assistant powered by RAG.
 
 ContextMind semantically searches across local notes, chats, PDFs, and screenshots using Retrieval-Augmented Generation (RAG), OCR, ChromaDB, and local LLM inference with Ollama.
+<img width="1800" height="827" alt="image" src="https://github.com/user-attachments/assets/2244c02a-8105-4125-a8ad-b24415a5ebc6" />
+
 
 ---
 

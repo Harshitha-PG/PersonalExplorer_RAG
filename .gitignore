@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+chroma_db/
+*.pyc
+
+test_data/
+
+.env
+
+.DS_Store
+
